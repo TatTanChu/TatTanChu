@@ -32,7 +32,7 @@
 <br>
 <h2>📫 THÔNG TIN LIÊN HỆ</h2>
 - 💬 Hãy liên hệ mình giải đáp thắc mắc qua email : tatchu6878@gmail.com
-<br>
+<br/>
 - ⚡ Hoặc là facebook cá nhân : Tất Tân Chu
 <!--
 **TatTanChu/TatTanChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
