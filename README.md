@@ -1,4 +1,4 @@
-### Chào mọi người mình là Tất Tân Chu !!! - Đây là kênh lập trình của mình 👋👋👋
+<h2> Chào mọi người mình là Tất Tân Chu !!! - Đây là kênh lập trình của mình 👋👋👋 </h2>
 <br>
 
 <div>
