@@ -2,15 +2,17 @@
 <br>
 
 <div>
+  <p align="center">
   <table>
   <tr>
   <td width="30%">
-<p align="center">
+
   <img src="https://nordiccoder.com/app/uploads/2018/11/1_OF0xEMkWBv-69zvmNs6RDQ.gif" alt="this slowpoke moves" class="center" width="600" />
-</p>
+
     </td>
     </tr>
      </table>
+  </p>
 </div>
 
 <br>
