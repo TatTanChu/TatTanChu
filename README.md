@@ -1,6 +1,7 @@
 ### Chào mọi người mình là Tất Tân Chu !!! - Hãy cùng nhau học lập trình với mình nhé ! 👋👋👋
-
-<img src="http://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" alt="this slowpoke moves" class="center" width="600" />
+<p class="aligncenter">
+  <img src="http://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" alt="this slowpoke moves" class="center" width="600" />
+</p>
 
 - 🌱 Sinh viên ngành CNTT trường ĐH Sư Phạm Kỹ Thuật TPHCM
 - 💬 Hãy liên hệ mình giải đáp thắc mắc qua email : tatchu6878@gmail.com
