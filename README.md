@@ -1,6 +1,9 @@
 ### Chào mọi người mình là Tất Tân Chu !!! - Hãy cùng nhau học lập trình với mình nhé ! 👋👋👋
 
-
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"
+/>
 <!--
 **TatTanChu/TatTanChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
