@@ -2,7 +2,7 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=Tat Tan Chu&theme=dracula"
+  src="https://github-readme-stats.vercel.app/api/?username=TatTanChu&theme=dracula"
 />
 <!--
 **TatTanChu/TatTanChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
