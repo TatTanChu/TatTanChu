@@ -3,7 +3,7 @@
 
 <div>
   
-  <table>
+  <table class = "center">
   <tr>
   <td width="30%">
 <p align="center">
