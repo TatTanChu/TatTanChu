@@ -11,7 +11,7 @@
 
 <br>
 <h2>⚡⚡ MỤC ĐÍCH XÂY DỰNG ⚡⚡</h2>
-Đây là sẽ là nơi để mình thường xuyên cập nhật các bài giảng lập trình từ cơ bản đến nâng cao. Đồng thời chia sẽ những kinh nghiệm giúp cho các bạn có thể tự tin tiếp tục hành trình chinh phục các thử thách thông qua việc giải quyết các thuật toán, bài toán khó. Đồng thời còn hướng dẫn các bạn cách thức xây dụng ứng dụng thông qua những đồ chơi công nghệ từ thô sơ đến hiện đại hee hee <3 . Tuy nhiênnn !! Các bạn cũng có thể chia sẽ những kinh nghiệm của các bạn cho mình để mình tiếp thêm động lực xây dựng trang GitHub này thật xịn xò nhé !!! 
+Đây là sẽ là nơi để mình thường xuyên cập nhật các bài giảng lập trình từ cơ bản đến nâng cao. Đồng thời chia sẽ những kinh nghiệm giúp cho các bạn có thể tự tin tiếp tục hành trình chinh phục các thử thách thông qua việc giải quyết các thuật toán, bài toán khó. Và còn hướng dẫn các bạn cách thức xây dụng ứng dụng thông qua những đồ chơi công nghệ từ thô sơ đến hiện đại hee hee <3 . Tuy nhiênnn !! Các bạn cũng có thể chia sẽ những kinh nghiệm của các bạn cho mình để mình tiếp thêm động lực xây dựng trang GitHub này thật xịn xò nhé !!! 
 <br>
 <br>
 <div>
